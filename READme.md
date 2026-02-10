@@ -1,13 +1,16 @@
-# Industrial Sensor Dashboard
+# Industrial Sensor Dashboard (Streamlit)
 
-A simple Streamlit dashboard that simulates industrial sensor data and calculates anomaly scores.
+A small dashboard that simulates industrial sensor signals and visualizes anomalies.
 
-## Features
-- Sensor signal simulation
-- Anomaly injection
-- Visualization
-- Interactive controls
+## What it demonstrates
+- Interactive UI (Streamlit)
+- Time-series simulation (sensor-like signals)
+- Anomaly injection and scoring
+- Visualization with Matplotlib
 
-## Run
-
+## Run locally
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 streamlit run app.py
