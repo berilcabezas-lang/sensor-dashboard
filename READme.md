@@ -16,4 +16,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Screenshot
+
 ![Dashboard](assets/dashboard.png)
