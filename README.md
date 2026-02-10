@@ -17,8 +17,6 @@ streamlit run app.py
 
 
 ## Screenshot
-
-
 <img src="https://raw.githubusercontent.com/berilcabezas-lang/sensor-dashboard/main/assets/dashboard.png" width="800">
 
 
