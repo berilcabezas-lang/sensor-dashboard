@@ -15,7 +15,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
+
 ## Screenshot
 
-![Dashboard](./assets/dashboard.png)
+<img src="assets/dashboard.png" alt="Dashboard" width="800">
 
