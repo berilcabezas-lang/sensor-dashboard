@@ -18,5 +18,6 @@ streamlit run app.py
 
 ## Screenshot
 
-![Dashboard](https://raw.githubusercontent.com/berilcabezas-lang/sensor-dashboard/main/assets/dashboard.png)
+![Dashboard](https://github.com/berilcabezas-lang/sensor-dashboard/blob/main/assets/dashboard.png)
+
 
