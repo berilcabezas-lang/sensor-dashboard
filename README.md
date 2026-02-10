@@ -17,4 +17,5 @@ streamlit run app.py
 
 ## Screenshot
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](./assets/dashboard.png)
+
